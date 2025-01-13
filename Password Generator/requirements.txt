@@ -1,3 +1,2 @@
-string
-secrets
-random
+colorama==0.4.6
+inquirer==3.4.0
